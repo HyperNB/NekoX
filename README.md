@@ -1,8 +1,7 @@
 # NekoX
 
-NekoX is an open source third-party Telegram android app.
-
-- Google play store: (https://play.google.com/store/apps/details?id=nekox.messenger)
+NekoX is an open source third-party Telegram android app. <br>
+ <a href='https://play.google.com/store/apps/details?id=nekox.messenger'><img alt='Get it on Google Play' width="200"      src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
 - Update news : https://t.me/NekoX-Dev
 - Feedback: https://github.com/NekoX-Dev/NekoX/issues
 - Chat Group: https://t.me/NekoXChat
